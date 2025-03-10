@@ -1,4 +1,4 @@
-# Tool convert DMOJ format to neoSaris format.
+# Tool convert DMOJ format to neoSaris format
 
 ## 1. Installation
 - Cài đặt các thư viện cần thiết bằng câu lệnh sau:
