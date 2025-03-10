@@ -1,0 +1,162 @@
+{
+    "contestMetadata": {
+        "duration": 300,
+        "frozenTimeDuration": 60,
+        "name": "The ICPC IT HUSC 2025",
+        "type": "ICPC"
+    },
+    "problems": [
+        {
+            "index": "A",
+            "name": "icpchusc2025p1"
+        },
+        {
+            "index": "B",
+            "name": "icpchusc2025p2"
+        },
+        {
+            "index": "C",
+            "name": "icpchusc2025p3"
+        },
+        {
+            "index": "D",
+            "name": "icpchusc2025p4"
+        },
+        {
+            "index": "E",
+            "name": "icpchusc2025p5"
+        },
+        {
+            "index": "F",
+            "name": "icpchusc2025p6"
+        },
+        {
+            "index": "G",
+            "name": "icpchusc2025p7"
+        },
+        {
+            "index": "H",
+            "name": "icpchusc2025p8"
+        },
+        {
+            "index": "I",
+            "name": "icpchusc2025p9"
+        },
+        {
+            "index": "J",
+            "name": "icpchusc2025p10"
+        }
+    ],
+    "verdicts": {
+        "accepted": [
+            "AC"
+        ],
+        "wrongAnswerWithPenalty": [
+            "WA",
+            "TLE",
+            "MLE",
+            "IR",
+            "RTE"
+        ],
+        "wrongAnswerWithoutPenalty": [
+            "CE"
+        ]
+    },
+    "contestants": [
+        {
+            "id": 1,
+            "name": "hazzu",
+            "school": "Hue University of Science"
+        },
+        {
+            "id": 2,
+            "name": "fan_rainboy",
+            "school": "Hue University of Science"
+        },
+        {
+            "id": 3,
+            "name": "Yunan",
+            "school": "Hue University of Science"
+        }
+    ],
+    "submissions": [
+        {
+            "timeSubmitted": 263,
+            "contestantName": "Yunan",
+            "problemIndex": "A",
+            "verdict": "AC"
+        },
+        {
+            "timeSubmitted": 274,
+            "contestantName": "Yunan",
+            "problemIndex": "B",
+            "verdict": "MLE"
+        },
+        {
+            "timeSubmitted": 274,
+            "contestantName": "Yunan",
+            "problemIndex": "B",
+            "verdict": "AC"
+        },
+        {
+            "timeSubmitted": 275,
+            "contestantName": "Yunan",
+            "problemIndex": "B",
+            "verdict": "WA"
+        },
+        {
+            "timeSubmitted": 283,
+            "contestantName": "Yunan",
+            "problemIndex": "C",
+            "verdict": "AC"
+        },
+        {
+            "timeSubmitted": 284,
+            "contestantName": "Yunan",
+            "problemIndex": "C",
+            "verdict": "AC"
+        },
+        {
+            "timeSubmitted": 284,
+            "contestantName": "Yunan",
+            "problemIndex": "C",
+            "verdict": "CE"
+        },
+        {
+            "timeSubmitted": 284,
+            "contestantName": "Yunan",
+            "problemIndex": "C",
+            "verdict": "WA"
+        },
+        {
+            "timeSubmitted": 215,
+            "contestantName": "hazzu",
+            "problemIndex": "E",
+            "verdict": "AC"
+        },
+        {
+            "timeSubmitted": 216,
+            "contestantName": "hazzu",
+            "problemIndex": "E",
+            "verdict": "AC"
+        },
+        {
+            "timeSubmitted": 61,
+            "contestantName": "fan_rainboy",
+            "problemIndex": "E",
+            "verdict": "TLE"
+        },
+        {
+            "timeSubmitted": 64,
+            "contestantName": "fan_rainboy",
+            "problemIndex": "E",
+            "verdict": "AC"
+        },
+        {
+            "timeSubmitted": 65,
+            "contestantName": "fan_rainboy",
+            "problemIndex": "E",
+            "verdict": "AC"
+        }
+    ]
+}

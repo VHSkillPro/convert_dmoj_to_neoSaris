@@ -1,0 +1,19 @@
+{
+    "contestants": [
+        {
+            "id": 1,
+            "name": "hazzu",
+            "school": "Hue University of Science"
+        },
+        {
+            "id": 2,
+            "name": "fan_rainboy",
+            "school": "Hue University of Science"
+        },
+        {
+            "id": 3,
+            "name": "Yunan",
+            "school": "Hue University of Science"
+        }
+    ]
+}

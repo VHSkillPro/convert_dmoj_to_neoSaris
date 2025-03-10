@@ -1,0 +1,44 @@
+{
+    "problems": [
+        {
+            "index": "A",
+            "name": "icpchusc2025p1"
+        },
+        {
+            "index": "B",
+            "name": "icpchusc2025p2"
+        },
+        {
+            "index": "C",
+            "name": "icpchusc2025p3"
+        },
+        {
+            "index": "D",
+            "name": "icpchusc2025p4"
+        },
+        {
+            "index": "E",
+            "name": "icpchusc2025p5"
+        },
+        {
+            "index": "F",
+            "name": "icpchusc2025p6"
+        },
+        {
+            "index": "G",
+            "name": "icpchusc2025p7"
+        },
+        {
+            "index": "H",
+            "name": "icpchusc2025p8"
+        },
+        {
+            "index": "I",
+            "name": "icpchusc2025p9"
+        },
+        {
+            "index": "J",
+            "name": "icpchusc2025p10"
+        }
+    ]
+}
