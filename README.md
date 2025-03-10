@@ -1,12 +1,12 @@
-Tool convert DMOJ format to neoSaris format.
+# Tool convert DMOJ format to neoSaris format.
 
-# Installation
+## 1. Installation
 - Cài đặt các thư viện cần thiết bằng câu lệnh sau:
 ```bash
 pip install -r requirements.txt
 ```
 
-# Usage
+## 2. Usage
 1. Chỉnh sửa file `contestants.json` sao cho phù hợp với danh sách thí sinh theo cấu trúc:
 ```json
 {
